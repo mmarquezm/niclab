@@ -1,2 +1,2 @@
-NIC Labs: Proyecto Caracterización de Clientes
+# NIC Labs: Proyecto Caracterización de Clientes
 
