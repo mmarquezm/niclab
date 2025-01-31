@@ -1,0 +1,14 @@
+pip install -r requirements.txt
+
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+scikit-learn
+statsmodels
+openpyxl
+pyarrow
+xlrd
+pyodbc
+sqlalchemy
